@@ -3,8 +3,11 @@ scikit-learn
 matplotlib
 tensorboard
 keras==3.7.0
-streamlit==1.40.1
-tensorflow==2.16.2
 numpy==1.26.4
+streamlit==1.52.1
+tensorflow==2.20.0
+protobuf==5.29.2
+
+
 
 
